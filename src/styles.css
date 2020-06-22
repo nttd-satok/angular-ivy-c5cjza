@@ -2,3 +2,4 @@
 .completed {
   text-decoration: line-through;
 }
+@import '~@angular/material/prebuilt-themes/indigo-pink.css';
